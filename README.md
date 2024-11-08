@@ -1,12 +1,6 @@
 ---
 title: "Cancer data web tool"
-subtitle: "R Functions to build nice interactive charts. "  
-output:
-  html_document:
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
+subtitle: "R Functions to build nice interactive charts"  
 ---
 
 
